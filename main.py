@@ -1,4 +1,3 @@
-# main.py（项目入口）
 from src.generator import generate_full_grid, create_puzzle
 from src.visualizer import SudokuVisualizer
 
